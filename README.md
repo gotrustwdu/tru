@@ -87,3 +87,4 @@ Users interact with the smart contract at their own responsibility.
 
 Founder: Toorandokht Afshari  
 LinkedIn: https://www.linkedin.com/in/toorandokht-afshari-60392639b/
+For detailed team information, see: TEAM.md
