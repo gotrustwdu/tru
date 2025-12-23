@@ -81,3 +81,9 @@ GoTrustWDU Token (TUR) is a utility-focused blockchain project.
 It does not provide financial advice, investment guarantees, or promises of profit.
 
 Users interact with the smart contract at their own responsibility.
+---
+
+## Team
+
+Founder: Toorandokht Afshari  
+LinkedIn: https://www.linkedin.com/in/toorandokht-afshari-60392639b/
