@@ -83,6 +83,27 @@ It does not provide financial advice, investment guarantees, or promises of prof
 Users interact with the smart contract at their own responsibility.
 ---
 
+================================================================
+PROJECT IDENTITY & MAINTENANCE (ADDITIONAL INFORMATION)
+
+Founder & Project Maintainer:
+Name: Toorandokht Afshari
+
+GoTrustWDU is an independently developed and maintained blockchain project.
+The founder is responsible for:
+
+- Smart contract deployment
+- Public documentation and whitepaper
+- Maintaining transparency across all official resources
+
+Professional Profile (Public & Verifiable):
+https://www.linkedin.com/in/toorandokht-afshari-60392639b/
+
+This project is open-source and transparency-first.
+All components are publicly verifiable via BscScan and GitHub.
+================================================================
+
+
 ## Team
 
 Founder: Toorandokht Afshari  
