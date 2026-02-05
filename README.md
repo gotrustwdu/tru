@@ -1,5 +1,5 @@
 # GoTrustWDU Token (TUR)
-
+**********************************
 GoTrustWDU Token (TUR) is a clean, transparent, and fixed-supply BEP-20 utility token deployed on the BNB Smart Chain.
 
 The project is designed with simplicity, verifiability, and predictable on-chain behavior in mind, making it suitable for basic Web3 utilities, community systems, and educational blockchain use cases.
@@ -7,6 +7,7 @@ The project is designed with simplicity, verifiability, and predictable on-chain
 ---
 
 ## Token Information
+***********
 
 - Name: GoTrustWDU Token  
 - Symbol: TUR  
